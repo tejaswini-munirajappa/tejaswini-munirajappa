@@ -29,3 +29,7 @@
 ### 🧰 Development Tools  
 `VS Code` • `Android Studio`
 
+## 🌱 Personal Interest
+
+📚 When I'm not coding, you'll find me lost in the pages of a good book — because stories inspire just like great software does.
+
